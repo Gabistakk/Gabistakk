@@ -4,4 +4,4 @@
 - 💞️ I’m looking to do internships in companies
 - 📫 How to reach me, e mail: gabistakk@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: i'm at tier masters in league!
+- ⚡ Fun fact: i'm at tier grand master in league!

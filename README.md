@@ -1,4 +1,4 @@
-emerenciano.dev['emerenciano.dev']
+emerenciano.dev[emerenciano.dev]
 
 - 👋 Hi, I’m Gabriel Emerenciano!
 - 👀 I’m interested in Coding and Pentesting.

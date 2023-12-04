@@ -2,11 +2,11 @@
 
 ```
 const meAsArray = () => {
-return [
-'coding',
-'karate/mma',
-'gaming',
-'chess',
-'thinking differently',
+  return [
+  'coding',
+  'karate/mma',
+  'gaming',
+  'chess',
+  'thinking differently',
 ]}
 ```

@@ -1,7 +1,12 @@
-### [emerenciano.dev](https://emerenciano.dev)
+# [emerenciano.dev](https://emerenciano.dev)
 
-#### coding...
-#### karate/mma
-#### gaming
-#### chess
-#### thinking differently.
+```
+const meAsArray = () => {
+return [
+'coding',
+'karate/mma',
+'gaming',
+'chess',
+'thinking differently',
+]}
+```

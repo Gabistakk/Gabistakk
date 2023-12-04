@@ -3,10 +3,10 @@
 ```
 const meAsArray = () => {
   return [
-  'coding',
-  'karate/mma',
-  'gaming',
-  'chess',
-  'thinking differently',
-]}
+    'coding',
+    'karate/mma',
+    'gaming',
+    'chess',
+    'thinking differently',
+  ]}
 ```

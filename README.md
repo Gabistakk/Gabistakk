@@ -8,5 +8,6 @@ const meAsArray = () => {
     'gaming',
     'chess',
     'thinking differently',
-  ]}
+  ]
+}
 ```

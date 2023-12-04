@@ -1,7 +1,7 @@
-[emerenciano.dev](https://emerenciano.dev)
+### [emerenciano.dev](https://emerenciano.dev)
 
-coding...
-karate/mma
-gaming
-chess
-thinking differently.
+#### coding...
+#### karate/mma
+#### gaming
+#### chess
+#### thinking differently.

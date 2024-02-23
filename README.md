@@ -14,9 +14,8 @@ export default function me(){
   const musicTaste = (input) => {
     if(input == 'soundcloud'){
       return [
-          'https://soundcloud.com/hahaahahahahah/spitonmyface',
           'https://soundcloud.com/user-835086313/what-we-did-in-the-desert',
-          'https://soundcloud.com/brainfuckedbutdeadly/nada-contra-ciume',
+          'https://soundcloud.com/brainfuckedbutdeadly/nada-contra-ciume'
           ]
     }
     if(input == 'profile'){
